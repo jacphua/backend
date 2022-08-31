@@ -13,5 +13,13 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "sqlite3": "^5.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacphua/backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacphua/backend/issues"
+  },
+  "homepage": "https://github.com/jacphua/backend#readme"
 }
